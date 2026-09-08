@@ -6,7 +6,9 @@ SVN에 익숙한 사용자를 위한 Windows Git 클라이언트입니다. 작�
 
 ## 다운로드
 
-[최신 Release](https://github.com/devslab-kr/gitlinq-releases/releases/latest)에서 원하는 파일을 선택하세요. [GitLinq 제품 페이지](https://devslab-kr.github.io/gitlinq/)에서도 받을 수 있습니다.
+[최신 Release](https://github.com/devslab-kr/gitlinq-releases/releases/latest)에서 원하는 파일을 선택하세요. [GitLinq 제품 페이지](https://devslab.kr/products/gitlinq/)에서도 받을 수 있습니다.
+
+처음 사용한다면 [초보자 설명서](https://devslab.kr/products/gitlinq/docs/)에서 설치·저장소 열기·변경 확인 순서로 따라 해 보세요.
 
 - **설치본:** `GitLinq-<버전>-windows-x64-setup.exe`
 - **무설치본:** `GitLinq-<버전>-windows-x64-portable.zip` 전체를 풀고 `GitLinq.exe` 실행
